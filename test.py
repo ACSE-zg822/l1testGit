@@ -1,4 +1,7 @@
-print("hello wordls")
+print("hello world")
+print("hwj")
+print("wh")
 print("hello zhaowei")
-print("hello wordls, zhaowei guo")
+print("hello world, zhaowei guo")
 print("line3")
+
